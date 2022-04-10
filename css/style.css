@@ -2,6 +2,10 @@ body{
     font-family: "Times New Roman", Times, serif;
 }
 
+.h-70{
+    height: 70%;
+}
+
 /*----- Header -----*/
 Header .welcomeText{
     font-family: 'Lobster', cursive;
