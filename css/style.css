@@ -8,6 +8,12 @@ Header .welcomeText{
     font-size: 45px;
 }
 
-header .descriptionText{
-    font-size: 20px;
+
+/*------ Section1 ------*/
+.icon{
+    background: #ebeafb;
+    color: #0d6efd;
+    display: inline-block;
+    border-radius: 15px;
+    padding: 15px;
 }
