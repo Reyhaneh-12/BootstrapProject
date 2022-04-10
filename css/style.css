@@ -1,0 +1,13 @@
+body{
+    font-family: "Times New Roman", Times, serif;
+}
+
+/*----- Header -----*/
+Header .welcomeText{
+    font-family: 'Lobster', cursive;
+    font-size: 45px;
+}
+
+header .descriptionText{
+    font-size: 20px;
+}
